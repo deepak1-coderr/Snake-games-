@@ -40,9 +40,9 @@ jobs:
       - name: Setup Gradle
         uses: gradle/actions/setup-gradle@v4
         with:
-          gradle-version-file: pixel-snake-android/pixel-snake-android/android/gradle/wrapper/gradle-wrapper.properties
+          gradle-version:'8.13'
 
-      - name: Build Android AAB
+       name: Build Android AAB
         run: gradle -p pixel-snake-android/pixel-snake-android/android bundleRelease
 
       - name: Upload AAB file
