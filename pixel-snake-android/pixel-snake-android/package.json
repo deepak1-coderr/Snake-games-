@@ -1,0 +1,16 @@
+{
+  "name": "pixel-snake",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pixel Snake - offline Snake game for Android",
+  "scripts": {
+    "sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.6.0",
+    "@capacitor/cli": "^8.6.0",
+    "@capacitor/core": "^8.6.0",
+    "@fontsource/ibm-plex-mono": "^5.3.0",
+    "@fontsource/silkscreen": "^5.3.0"
+  }
+}

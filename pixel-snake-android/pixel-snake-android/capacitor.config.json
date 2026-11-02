@@ -1,0 +1,9 @@
+{
+  "appId": "com.janakpurwebstudio.pixelsnake",
+  "appName": "Pixel Snake",
+  "webDir": "www",
+  "backgroundColor": "#cfd9ad",
+  "android": {
+    "allowMixedContent": false
+  }
+}

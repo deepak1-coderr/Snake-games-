@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Pixel Snake</string>
+    <string name="title_activity_main">Pixel Snake</string>
+    <string name="package_name">com.janakpurwebstudio.pixelsnake</string>
+    <string name="custom_url_scheme">com.janakpurwebstudio.pixelsnake</string>
+</resources>
